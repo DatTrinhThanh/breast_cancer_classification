@@ -1,0 +1,4 @@
+- the 20 last cols are not calculated from the first 10 cols, 30 cols are calculated from 10 real valued features.
+- Need to visualize the correlation relationships of these 30 features in order to drop the 20 last cols (use histplot might be good).
+- worst and error are usually noisy, so consider dropping them but need to visualize as a complete reason.
+- need to do hyper-parameters tuning.
